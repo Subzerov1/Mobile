@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436529598464",
+    "project_id": "subzero-75c8a",
+    "storage_bucket": "subzero-75c8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436529598464:android:4cfbfcbae96646c04008e5",
+        "android_client_info": {
+          "package_name": "com.example.subzero_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjuj501zeuwD5iKthYLMCJV756hco7c1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
