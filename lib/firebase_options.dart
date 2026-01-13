@@ -41,46 +41,52 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCkw4rYIHjgA7Cv0ie6ImG2esjwa_qZsXo',
-    appId: '1:436529598464:web:3ad74a84083d760e4008e5',
-    messagingSenderId: '436529598464',
-    projectId: 'subzero-75c8a',
-    authDomain: 'subzero-75c8a.firebaseapp.com',
-    storageBucket: 'subzero-75c8a.firebasestorage.app',
+    apiKey: 'AIzaSyBWMBWW0oLXFTXl1MKWc943Kj7u1ky7joY',
+    appId: '1:212836452658:web:632fa5ab1c972a51376f2b',
+    messagingSenderId: '212836452658',
+    projectId: 'code-83c74',
+    authDomain: 'code-83c74.firebaseapp.com',
+    databaseURL: 'https://code-83c74.firebaseio.com',
+    storageBucket: 'code-83c74.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDjuj501zeuwD5iKthYLMCJV756hco7c1E',
-    appId: '1:436529598464:android:4cfbfcbae96646c04008e5',
-    messagingSenderId: '436529598464',
-    projectId: 'subzero-75c8a',
-    storageBucket: 'subzero-75c8a.firebasestorage.app',
+    apiKey: 'AIzaSyBvWhb_Ny0tWR9KkHvperK5nVxMwDMhokg',
+    appId: '1:212836452658:android:5e3bf1f4d80a286d376f2b',
+    messagingSenderId: '212836452658',
+    projectId: 'code-83c74',
+    databaseURL: 'https://code-83c74.firebaseio.com',
+    storageBucket: 'code-83c74.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD8Vj9Pp1JDmuI6DtnqUtMIeWtZofegGOg',
-    appId: '1:436529598464:ios:cde5c212d220fadc4008e5',
-    messagingSenderId: '436529598464',
-    projectId: 'subzero-75c8a',
-    storageBucket: 'subzero-75c8a.firebasestorage.app',
+    apiKey: 'AIzaSyBdZl355ODmJxUyNzLlRTcRy5Iz1vxI5zc',
+    appId: '1:212836452658:ios:4c6c2f1afee2d306376f2b',
+    messagingSenderId: '212836452658',
+    projectId: 'code-83c74',
+    databaseURL: 'https://code-83c74.firebaseio.com',
+    storageBucket: 'code-83c74.firebasestorage.app',
     iosBundleId: 'com.example.subzeroMobile',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD8Vj9Pp1JDmuI6DtnqUtMIeWtZofegGOg',
-    appId: '1:436529598464:ios:cde5c212d220fadc4008e5',
-    messagingSenderId: '436529598464',
-    projectId: 'subzero-75c8a',
-    storageBucket: 'subzero-75c8a.firebasestorage.app',
+    apiKey: 'AIzaSyBdZl355ODmJxUyNzLlRTcRy5Iz1vxI5zc',
+    appId: '1:212836452658:ios:4c6c2f1afee2d306376f2b',
+    messagingSenderId: '212836452658',
+    projectId: 'code-83c74',
+    databaseURL: 'https://code-83c74.firebaseio.com',
+    storageBucket: 'code-83c74.firebasestorage.app',
     iosBundleId: 'com.example.subzeroMobile',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCkw4rYIHjgA7Cv0ie6ImG2esjwa_qZsXo',
-    appId: '1:436529598464:web:52606fb61027f73d4008e5',
-    messagingSenderId: '436529598464',
-    projectId: 'subzero-75c8a',
-    authDomain: 'subzero-75c8a.firebaseapp.com',
-    storageBucket: 'subzero-75c8a.firebasestorage.app',
+    apiKey: 'AIzaSyBWMBWW0oLXFTXl1MKWc943Kj7u1ky7joY',
+    appId: '1:212836452658:web:70b4a90d266f92e1376f2b',
+    messagingSenderId: '212836452658',
+    projectId: 'code-83c74',
+    authDomain: 'code-83c74.firebaseapp.com',
+    databaseURL: 'https://code-83c74.firebaseio.com',
+    storageBucket: 'code-83c74.firebasestorage.app',
   );
+
 }
